@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "illumina",
+  "base_artist": "明透",
+  "createdAt": "2025-12-17T01:37:25.215913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Illumina",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/01_Illumina_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Questa Notte Una Lucciola Illumina La Mia Finestra",
+      "artist": "Carmen Consoli",
+      "has_synced": true,
+      "path": "select/02_Questa_Notte_Una_Lucciola_Illumina_La_Mia_Finestra_Carmen_Consoli.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Si illumina",
+      "artist": "Noemi",
+      "has_synced": true,
+      "path": "select/03_Si_illumina_Noemi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "illumina",
+      "artist": "DJ TOTTO",
+      "has_synced": true,
+      "path": "select/04_illumina_DJ_TOTTO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Illumina tutto",
+      "artist": "Vasco Brondi",
+      "has_synced": true,
+      "path": "select/05_Illumina_tutto_Vasco_Brondi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Illumina",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/06_Illumina_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "illumina",
+      "artist": "DEATHNYANN",
+      "has_synced": false,
+      "path": "select/07_illumina_DEATHNYANN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ILLUMINA",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/08_ILLUMINA_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Illumina (feat. Lauren Babic)",
+      "artist": "Altermind",
+      "has_synced": false,
+      "path": "select/09_Illumina_(feat._Lauren_Babic)_Altermind.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "illumina",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_illumina_明透.txt"
+    }
+  ]
+}
